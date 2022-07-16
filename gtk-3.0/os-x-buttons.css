@@ -4,7 +4,7 @@
 .selection-mode.titlebar .titlebutton.minimize,
 .titlebar .titlebutton.minimize {
     color: transparent;
-    border:none;
+    border: none;
     box-shadow: none;
     background-position: center;
     background-repeat: no-repeat;
@@ -32,7 +32,7 @@
 
 .selection-mode.titlebar .titlebutton.maximize,
 .titlebar .titlebutton.maximize {
-   color: transparent;
+    color: transparent;
     border: none;
     box-shadow: none;
     background-position: center;
@@ -49,7 +49,7 @@
 .selection-mode.titlebar .titlebutton.maximize:hover,
 .selection-mode.titlebar .titlebutton.maximize:checked,
 .titlebar .titlebutton.maximize:hover,
-.titlebar .titlebutton.maximize:checked  {
+.titlebar .titlebutton.maximize:checked {
     color: transparent;
     border: none;
     box-shadow: none;
@@ -61,7 +61,7 @@
 
 .selection-mode.titlebar .titlebutton.close,
 .titlebar .titlebutton.close {
-   color: transparent;
+    color: transparent;
     border: none;
     box-shadow: none;
     background-position: center;
@@ -78,8 +78,8 @@
 .selection-mode.titlebar .titlebutton.close:hover,
 .selection-mode.titlebar .titlebutton.close:checked,
 .titlebar .titlebutton.close:hover,
-.titlebar .titlebutton.close:checked  {
-   color: transparent;
+.titlebar .titlebutton.close:checked {
+    color: transparent;
     border: none;
     box-shadow: none;
     background-color: transparent;
@@ -89,8 +89,8 @@
 }
 
 .selection-mode.titlebar .titlebutton.close:active,
-.titlebar .titlebutton.close:active  {
-   color: transparent;
+.titlebar .titlebutton.close:active {
+    color: transparent;
     border: none;
     box-shadow: none;
     background-color: transparent;
@@ -100,8 +100,8 @@
 }
 
 .selection-mode.titlebar .titlebutton.maximize:active,
-.titlebar .titlebutton.maximize:active  {
-   color: transparent;
+.titlebar .titlebutton.maximize:active {
+    color: transparent;
     border: none;
     box-shadow: none;
     background-color: transparent;
@@ -111,8 +111,8 @@
 }
 
 .selection-mode.titlebar .titlebutton.minimize:active,
-.titlebar .titlebutton.minimize:active  {
-   color: transparent;
+.titlebar .titlebutton.minimize:active {
+    color: transparent;
     border: none;
     box-shadow: none;
     background-color: transparent;
@@ -120,4 +120,3 @@
     background-repeat: no-repeat;
     background-image: -gtk-scaled(url("assets/min_pressed.svg"));
 }
-

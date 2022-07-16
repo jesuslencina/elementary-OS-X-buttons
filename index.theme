@@ -1,13 +1,9 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=OS-X-buttons
-Comment=OS X buttons for elementary OS by yarik-vv
+Name=OS-X-buttons - Lime
+Comment=OS X buttons for elementary OS originally by yarik-vv, forked by jesuslencina
 Encoding=UTF-8
 
-Name[en_US]=OS-X-buttons
+Name[en_US]=OS-X-buttons - Lime
 
-[X-GNOME-Metatheme]
-GtkTheme=elementary
-IconTheme=elementary
-CursorTheme=DMZ-Black
-ButtonLayout=close:maximize
+
