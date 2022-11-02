@@ -2,6 +2,12 @@
 
 ![GIF showing the buttons](https://media1.giphy.com/media/Vko7V62Mjc8JRQWk7t/giphy.gif?cid=790b7611d02c43c60dddd162a3d3c137c09e7c55c4f2de90&rid=giphy.gif&ct=g)
 
+---
+
+**PLEASE NOTE:** This repo will NOT be updated anymore, meaning this is very likely not to work when elementaryOS 7 comes out. If you're reading this from the future and you're already with eOS7 or +, please consider forking or making your own approach for this.
+
+---
+
 This is a recreation of macOS window control buttons for elementaryOS 6.1. That's the only affected aspect from elementary's default theme, since I like the out-of-the-box aesthetic of the OS.
 
 This repo specifically is a fork of [this repo](https://github.com/yarik-vv/OS-X-buttons), which had implemented it for elementaryOS Loki. All credits to the [original author](https://github.com/yarik-vv).
